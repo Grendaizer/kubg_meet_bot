@@ -4,5 +4,5 @@ EMAIL = config('userEMAIL',default='')
 PASS = config('password',default='')
 
 URL = 'https://apps.google.com/meet/?authuser=0'
-CODE = 'dzn-nswj-qfk'
+CODE = 'ofz-vuhm-uwa'
 print(EMAIL,PASS)
